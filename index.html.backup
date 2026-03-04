@@ -44,7 +44,7 @@
             <li><a href="#about" class="side-link">About</a></li>
             <li><a href="#skills" class="side-link">Skills</a></li>
             <li><a href="assets/LatoyaCarverResume.pdf" target="_blank" rel="noopener" class="side-link">Resume</a></li>
-            <li><a href="assets/LatoyaCarverResume.pdf#page=2" target="_blank" rel="noopener" class="side-link">Cover Letter</a></li>
+            <li><a href="assets/LatoyaCarverCoverLetter.pdf#page=2" target="_blank" rel="noopener" class="side-link">Cover Letter</a></li>
         </ul>
     </div>
 
@@ -103,15 +103,9 @@
                 </a>
             </div>
             <div class="slide">
-                <a href="https://quote-generator-nx0iihwcm-elles-projects-ed387603.vercel.app/" target="_blank" rel="noopener">
+                <a href="https://elledevz.github.io/quote-generator-app/" target="_blank" rel="noopener">
                   <img src="images/quote-generator.jpg" alt="Quote Generator project screenshot">
                   <div class="slide-content">Quote Generator</div>
-                </a>
-            </div>
-            <div class="slide">
-                <a href="#" target="_blank" rel="noopener">
-                  <img src="images/gif-gala.jpg" alt="GIF Gala event invitation screenshot">
-                  <div class="slide-content">GIF Gala — Interactive Event Invite & RSVP</div>
                 </a>
             </div>
             <div class="dots" role="tablist" aria-label="Slide indicators">
@@ -122,7 +116,6 @@
                 <button class="dot" aria-label="Slide 5"></button>
                 <button class="dot" aria-label="Slide 6"></button>
                 <button class="dot" aria-label="Slide 7"></button>
-                <button class="dot" aria-label="Slide 8"></button>
             </div>
         </div>
         <!-- end slideshow -->
@@ -144,7 +137,7 @@
                 and keeps me inspired. I love blending art, tech, and self-expression in everything I do.
             </p>
             <p style="margin-top: 2em;">
-                Learn more about my journey, skills, and experience in my <a href="assets/LatoyaCarverResume.pdf#page=1" target="_blank" rel="noopener" style="text-decoration:underline;">resume</a> and <a href="assets/LatoyaCarverResume.pdf#page=2" target="_blank" rel="noopener" style="text-decoration:underline;">cover letter</a>.
+                Learn more about my journey, skills, and experience in my <a href="assets/LatoyaCarverResume.pdf#page=1" target="_blank" rel="noopener" style="text-decoration:underline;">resume</a> and <a href="assets/LatoyaCarverCoverLetter.pdf#page=2" target="_blank" rel="noopener" style="text-decoration:underline;">cover letter</a>.
             </p>
         </div>
     </section>
